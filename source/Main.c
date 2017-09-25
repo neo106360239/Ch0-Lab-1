@@ -3,9 +3,7 @@
 
 int main(void)
 {
-	printf("Welcome to C!\n");
-	printf("my studen id is 106360239\n");
-	printf("MY NAME IS NEO\n");
+	printf("this is Ch0-lab4,my name is neo\n";
 	system("pause");
 	return 0;
 }
